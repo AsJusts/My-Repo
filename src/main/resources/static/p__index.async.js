@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[10],{RXBc:function(n,a,t){"use strict";t.r(a);var e=t("q1tI"),u=t.n(e),c=(t("q4sD"),t("3a4m")),s=t.n(c);a["default"]=function(){return u.a.createElement("div",null,s.a.push("/data"))}}}]);
