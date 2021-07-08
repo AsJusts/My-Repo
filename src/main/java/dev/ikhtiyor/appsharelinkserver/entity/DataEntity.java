@@ -38,6 +38,7 @@ public class DataEntity {
     private String status;
     private String partiya;
     private String url;
+    private Integer idNo = 0;
 
 
 }
